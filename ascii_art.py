@@ -12,7 +12,7 @@ CHAR_MAPPING = {60: " ",
                 190: "gt[+]/(7jez2VfYL)T",
                 200: "m*Q4ZGbNDdK5PXY",
                 230: "8WAMK",
-                255: "#%$"
+                256: "#%$"
                 }
 GREY_SCALE = False
 RESIZE_WIDTH = 500.0
